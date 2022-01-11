@@ -26,10 +26,7 @@ export default {
     data: function() {
         return {
             files: [],
-            groupedWords: [
-                { name: 'i', amount: 1234 }, 
-                { name: 'you', amount: 900 }, 
-                { name: 'he', amount: 853 }, 
+            groupedWords: [                
             ]
         }
     },
